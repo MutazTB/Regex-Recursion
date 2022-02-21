@@ -1,0 +1,24 @@
+{
+    "name": "prep-lab10",
+    "version": "1.0.0",
+    "description": "",
+    "main": "recursion.test.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/MutazTB/Regex-Recursion.git"
+    },
+    "keywords": [],
+    "author": "Mutaz Altbakhi",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/MutazTB/Regex-Recursion.git"
+    },
+    "homepage": "https://github.com/MutazTB/Regex-Recursion.git",
+    "devDependencies": {
+      "jest": "^27.4.7"
+    }
+    
+  }
